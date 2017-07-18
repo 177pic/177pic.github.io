@@ -1,0 +1,3 @@
+document.writeln("<h1 id=\'logo\'><a href=\'http://www.99redh.org\' title=\'\' target=\'_self\'><img src=\'/images/logo.png\' /></a></h1>");
+document.writeln(" <div id=\'topimg\'>导航现用域名：www.99redh.org</div>");
+document.writeln("<div class=\'favor\'><a onclick=\'addfavor(\'http://www.99redh.org\',\'导航\')\'>收藏本站</a>&nbsp;|&nbsp;<a href=\'/submit.html\' target=\'_blank\'>免费收录</a></div>");
